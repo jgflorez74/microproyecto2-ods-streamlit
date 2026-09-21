@@ -1,0 +1,37 @@
+{
+  "modelo": "LinearSVC",
+  "sha256": "52cd850190d7910cfb1eda094b2c4ce2102eb1ac01b0315b35af92e4f9314c51",
+  "creado_utc": "2026-09-20T21:57:32.792038+00:00",
+  "clases": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "accuracy_test": 0.8788819875776398,
+  "f1_macro_test": 0.8498341779953856,
+  "n_test": 1932,
+  "equivalencia_test": true,
+  "componentes": 500,
+  "versiones": {
+    "numpy": "2.5.2",
+    "scipy": "1.18.0",
+    "scikit-learn": "1.9.0",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.5.0",
+    "streamlit": "1.64.0"
+  },
+  "python": "3.12.14"
+}
